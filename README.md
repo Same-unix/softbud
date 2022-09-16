@@ -8,7 +8,7 @@ softbud v0.1
 
 ## installation
 
-fisrt `sudo apt update`
-then `sudo su`
-last `dpkg -i softbud-v0.1-.deb`
-have fun install pkgs :)
+1. fisrt `sudo apt update`
+2. then `sudo su`
+3 .last `dpkg -i softbud-v0.1-.deb`
+4. have fun install pkgs :)
