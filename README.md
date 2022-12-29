@@ -12,3 +12,8 @@ softbud v0.1
 2. then `sudo su`
 3. last `dpkg -i softbud-v0.1-.deb`
 4. have fun install pkgs :)
+
+
+softbud is now dead
+
+R.I.P softbud ????-2022
